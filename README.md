@@ -114,7 +114,7 @@ Returns **404** if the code doesn't exist.
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ```
 urls (
